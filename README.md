@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm ARYAN CHANDRAKAR!<br>🔭 I’m currently studying Btech (Hons) in CSE DS<br>🌱 I’m currently learning C++, Data Structures, Python, Machine Learning, Deep Learning<br>💬 Ask me about Python, C, C++,R, Data Visualisation<br>⚡ Looking for collaboration opportunities
+# 👋 Hi there, I'm ARYAN CHANDRAKAR! 
+🔭 I’m currently studying Btech (Hons) in CSE DS<br>🌱 I’m currently learning C++, Data Structures, Python, Machine Learning, Deep Learning<br>💬 Ask me about Python, C, C++,R, Data Visualisation<br>⚡ Looking for collaboration opportunities
 
 
 ## 🌐 Socials:
