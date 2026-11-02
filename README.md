@@ -1,157 +1,18 @@
-<div align="center">
+# 👋 Hi there, I'm ARYAN CHANDRAKAR! 
+🔭 I’m currently studying Btech (Hons) in CSE DS<br>🌱 I’m currently learning C++, Data Structures, Python, Machine Learning, Deep Learning<br>💬 Ask me about Python, C, C++,R, Data Visualisation<br>⚡ Looking for collaboration opportunities
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:120000,35:8B0000,70:FF3030,100:160000&text=ARYAN%20CHANDRAKAR&fontSize=44&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=COMPUTER%20SCIENCE%20%7C%20DATA%20SCIENCE&descSize=16&descAlignY=63&descColor=FFD6D6" />
 
-<br/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SVmuBvbF2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan.2403) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chandrakar-834670327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanchandrakar95@gmail.com) 
 
-<a href="https://github.com/Aryan2436">
-  <img src="https://img.shields.io/badge/GitHub-Aryan2436-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Aryan2436&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" alt="Profile views"/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aryan2436&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Aryan2436&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan2436&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aryan2436&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Curious mind. Analytical thinking. Continuous learning.
-
-</div>
-
-01 / WHO AM I
-
-Hey! I'm Aryan Chandrakar, a B.Tech (Hons.) student specialising in Computer Science & Engineering – Data Science.
-
-I'm interested in understanding how technology works, exploring data, and learning how intelligent systems are built. I enjoy strengthening my fundamentals and improving through consistent practice.
-
-🧠 Interested in Data Science, Artificial Intelligence and Machine Learning
-
-🐍 Working with Python and exploring programming in C, C++ and R
-
-🌱 Currently learning Data Structures & Algorithms, Machine Learning and Deep Learning
-
-📊 Interested in data analysis and data visualisation
-
-⚡ Belief: learn the fundamentals, practise consistently, and keep improving
-
-02 / TECH TOOLKIT
-
-<div align="center">
-
-Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,r&theme=dark" alt="Python, C, C++ and R"/>
-
-Tools I Use
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
-
-Fields I'm Exploring
-
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-8B0000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-B82020?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-5A0000?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/DATA%20VISUALIZATION-9E2525?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
-
-</div>
-
-03 / MY LEARNING JOURNEY
-
-class AryanChandrakar:
-    def __init__(self):
-        self.name = "Aryan Chandrakar"
-        self.field = "Computer Science & Data Science"
-
-        self.programming = ["Python", "C", "C++", "R"]
-
-        self.exploring = [
-            "Data Structures & Algorithms",
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analysis",
-            "Data Visualization"
-        ]
-
-    def philosophy(self):
-        return "Stay curious. Learn deeply. Improve continuously."
-
-
-aryan = AryanChandrakar()
-print(aryan.philosophy())
-
-04 / CURRENT FOCUS
-
-Status
-
-Learning goal
-
-🔄
-
-Strengthen programming fundamentals
-
-🔄
-
-Practise Data Structures & Algorithms
-
-🔄
-
-Build a stronger foundation in Machine Learning
-
-🔄
-
-Explore Deep Learning concepts
-
-🎯
-
-Improve data analysis and visualisation skills
-
-🎯
-
-Apply learning through practical work
-
-05 / GITHUB OVERVIEW
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan2436&show_icons=true&hide_border=true&bg_color=110707&title_color=FF5555&icon_color=FF7777&text_color=F5EAEA" alt="Aryan's GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2436&layout=compact&hide_border=true&bg_color=110707&title_color=FF5555&text_color=F5EAEA" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Aryan2436&hide_border=true&background=110707&ring=FF5555&fire=FF7777&currStreakLabel=FF7777&sideLabels=F5EAEA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFAAAA" alt="GitHub contribution streak"/>
-
-</div>
-
-06 / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan2436&bg_color=110707&color=F5EAEA&line=FF5555&point=FFFFFF&area=true&area_color=8B0000&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
-07 / CONNECT
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="YOUR_DISCORD_PROFILE_OR_USERNAME">
-  <img src="https://img.shields.io/badge/DISCORD-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-<div align="center">
-
-LEARN  /  BUILD  /  EVOLVE
-
-“Progress over perfection. Curiosity without limits.”
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:160000,45:8B0000,100:FF3030&animation=twinkling"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
