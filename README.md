@@ -96,7 +96,7 @@ class Aryan:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/aryan-chandrakar-834670327">
+<a href="https://www.linkedin.com/in/aryan-chandrakar-834670327">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
