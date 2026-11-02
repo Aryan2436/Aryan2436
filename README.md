@@ -109,24 +109,22 @@ Goal: Build innovative solutions through technology.
 
 </div>
 
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
+---<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:4A0000,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aryan2436&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%"/>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aryan2436/Aryan2436/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan2436&show_icons=true&theme=dark&title_color=FF3333&icon_color=FF0000&text_color=FFFFFF&bg_color=0D0D0D&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Aryan2436&theme=dark&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF3333&currStreakLabel=FF3333"/>
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2436&layout=compact&theme=dark&title_color=FF3333&text_color=FFFFFF&bg_color=0D0D0D&hide_border=true"/>
 
 </div>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,r,numpy,pandas,mysql,git,github,vscode&theme=dark" />
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,python,r,numpy,pandas,mysql,git,github,vscode&theme=dark" />
+<img src="https://komarev.com/ghpvc/?username=Aryan2436&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge"/>
 
-<div align="center">
 
-### 💭 Developer Mindset
-
-*"Great things are built one line of code at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
-
-</div>
